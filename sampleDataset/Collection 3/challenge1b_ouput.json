@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Lunch Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_4.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items",
+    "processing_timestamp": "2025-07-26T07:17:28.f"
+  },
+  "extracted_sections": [
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Hummus",
+      "importance_rank": 1,
+      "page_number": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Fruit and Nut Bars",
+      "importance_rank": 2,
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Baba Ganoush",
+      "importance_rank": 3,
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Banchan",
+      "importance_rank": 4,
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Muhammara",
+      "importance_rank": 5,
+      "page_number": 12
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "As a Food Contractor assistant, provide concise, actionable details based on the given text:\n\n1. Ingredients:\n- 1 can chickpeas (garbanzo beans)\n- 1/4 cup tahini\n- 1/4 cup lemon juice\n- 2 cloves garlic\n- 1/4 cup olive oil\n- 1 teaspoon salt\n\nInstructions:\n1. Drain and rinse chickpeas.\n2. Blend chickpeas, tahini, minced garlic, lemon juice, and salt in a food processor until smooth.\n3. Slowly add olive oil while blending until the sauce is creamy and emulsified.\n4. Serve with drizzle of olive oil on top.",
+      "page_number": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Step-by-step instructions:\n\nIngredients:\n- 1 cup dates, pitted\n- 1 cup mixed nuts\n- 1/4 cup dried fruit\n- 1 tablespoon honey\n\nInstructions:\n\n1. In a food processor, combine the dates, mixed nuts, dried fruit, and honey.\n2. Process until the mixture comes together.\n3. Press the mixture into a greased baking dish.\n4. Refrigerate for at least 1 hour before cutting into bars.\n5. Store in an air-tight container.\n6. Preheat oven to 325°F (160°C).\n7. Cut the mixture into bars and bake for 20-25 minutes or until golden brown.",
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "Actionable details:\n- Ingredients:\n  1. Roast eggplant, then peel and mash.\n  2. Blend mashed eggplant, taquin, lemon juice, minced garlic, and salt in a food processor until smooth.\n  3. Slowly add olive oil while blending until smooth.\n  4. Serve with drizzle of olive oil.\n- Job description:\n  1. Roast eggplant until soft, then peel and mash.\n  2. Blend mashed eggplant, taquin, lemon juice, minced garlic, and salt in a food processor until smooth.\n  3. Slowly add olive oil while blending until smooth.\n  4. Serve with drizzle of olive oil.",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "1. Prepare each side dish separately, starting with the Assorted Small Side Dishes:\n- Boil spinach leaves in a pot of boiling water for 2 minutes until wilted. Drain and set aside.\n- In a small bowl, combine chopped radishes, green onions, and minced garlic. Mix well.\n- Heat oil in a pan over medium heat. Add sliced mushrooms and stir-fry for 2 minutes until tender.\n- Remove from heat and set aside.\n- In the same pan, add sesame seeds and stir-fry for 1 minute until fragrant.\n- Add the boiled spinach leaves to the pan with the mushroom mixture and stir-fry for another 2 minutes until wilted.\n- Serve the Assorted Small Side Dishes on small plates, arranged in a row.\n\nInstructions:\n1. Preheat oven to 400°F (200°C).\n2. In a large bowl, combine cooked rice and sliced mushrooms. Mix well.\n3. Add boiled",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "1. Preheat the oven to 400°F (200°C).\n2. Cut bell peppers into quarters, remove seeds and char them on a baking sheet until they are blackened, about 5-7 minutes. Remove from the oven and let cool.\n3. In a food processor or blender, pulse walnuts, breadcrumbs, minced garlic, olive oil, pomegranaate molassees, salt, and roasted peppers until well combined.\n4. In a large bowl, combine the roasted pepper mixture with breadcrumbs, minced garlic, olives oil, pomegranaate molassees, and cumin. Mix well.\n5. Season with salt to taste.\n6. Spread the mixture evenly on a baking sheet lined with parchment paper. Roast for 10-12 minutes until golden brown.\n7. Remove from oven and let cool before serving.\n8. Serve with your favorite dipping sauce or as a side dish.",
+      "page_number": 12
+    }
+  ]
+}

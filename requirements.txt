@@ -1,0 +1,4 @@
+PyMuPDF==1.23.14
+llama-cpp-python==0.2.25
+rank-bm25==0.2.2
+nltk==3.8.1

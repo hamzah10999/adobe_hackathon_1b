@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Test Your Acrobat Exporting Skills.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf"
+    ],
+    "persona": "HR professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+    "processing_timestamp": "2025-07-26T07:13:37.f"
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Types of PDF forms",
+      "importance_rank": 1,
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Show or activate PDFMaker in Microsoft Office and Lotus Notes",
+      "importance_rank": 2,
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Print forms",
+      "importance_rank": 3,
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Fill and sign PDF forms",
+      "importance_rank": 4,
+      "page_number": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Conclusion",
+      "importance_rank": 5,
+      "page_number": 3
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "1. Interactive forms: These contain fields that you can select and fill in.\n- For example, a job application form with multiple choice questions or a survey \nform with multiple answer options.\n2. Flat forms: These do not have interactive fields. It could be a paper form or PDF \nthat hasn't been optimized for form filling. The Fill & Sign tool automatically \ndetects the form fields like text fields, comb fields, checkboxes, and radio buttons. \n- For example, a customer service form with a list of questions or a survey form with \nmultiple choice questions.\n3. Manual filling: You can manually add text and other symbols to fill in any missing \nfields on the PDF forms.\n4. Filing & signing: The Fill & Sign tool automatically detects the form fields like \ntext fields, comb fields, checkboxes, and radio buttons. You can then manually \nadd text and other symbols to fill in any missing fields on the PDF forms.\n5. Customization: You can customize the PDF forms by adding your company logo or \nbranding elements.\n6. Optimization: The Fill & Sign tool automatically",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "1. Open Microsoft Office or Lotus Notes application.\n2. Click on File > Preferences in the menu bar.\n3. In the dialog box that appears, click on Toolbar > Toolbars.\n4. Select the Visible option for Acrobat PDFMaker.\n5. The PDF toolbar buttons should now appear in your Microsoft Office or Lotus Notes application.\n\nConcise:\n1. Open Microsoft Office or Lotus Notes application.\n2. Click on File > Preferences in the menu bar.\n3. In the dialog box that appears, click on Toolbar > Toolbars.\n4. Select the Visible option for Acrobat PDFMaker.\n5. The PDF toolbar buttons should now appear in your Microsoft Office or Lotus Notes application.",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "- \"Print to\" (prints to a specific printer)\n- \"Print to default printer\" (prints to the default printer)\n- \"Print to all printers\" (prints to all available printers on your system)\n- \"Print to this printer\" (prints to the printer you are currently using)\n- \"Print to this printer and save as...\" (prints to a specific printer, saves the printout to a new file with a specified name, and closes the Print dialog box)\n- \"Print to this printer and save as PDF\" (prints to a specific printer, saves the printout to a PDF file with a specified name, and closes the Print dialog box)\n- \"Print to this printer and save as... (PDF)\" (prints to a specific printer, saves the printout to a PDF file with a specified name, and closes the Print dialog box)\n- \"Print to this printer and save as... (XLS)\" (prints to a specific printer, saves the printout to an Excel spreadsheet with a specified name, and closes the Print dialog box)\n- \"Print to this printer and save as... (DOC)\" (prints",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "1. Fill and Sign PDF Forms:\na. Open the form in Acrobat and select E-Sign from the global bar. Alternatively, you can select All tools > Fill & Sign.\nb. It displays the Fill & Sign tools in the left panes.\nc. You can now fill in the form fields and sign the form using the sign tools described in the following topics:\ni. Fill in the form fields with your signature, then select the appropriate sign tool from the list.\nii. If you want to add a digital seal or a stamp, select the appropriate option from the list.\niii. Once you've selected the desired sign tool, click on the \"Sign\" button to complete the process.\n2. Sign PDF Forms:\na. Open the form in Acrobat and select E-Sign from the global bar. Alternatively, you can select All tools > Fill & Sign.\nb. It displays the Fill & Sign tools in the left panes.\nc. You can now sign the form using the sign tools described in the following topics:\ni. Fill in the form fields with your signature, then select the appropriate sign tool from the",
+      "page_number": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Conclusion:\nSharing PDFs with Adobe Acrobat is straightforward and efficient, regardless of the project or real estate documents involved. By following the checklists provided, you can ensure that your sharings are smooth and professional. Start sharing smarter today!",
+      "page_number": 3
+    }
+  ]
+}
